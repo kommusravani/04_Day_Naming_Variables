@@ -1,3 +1,3 @@
-# day_04
+# 04_Day
 ways to assigning varables 
 variables nameing
